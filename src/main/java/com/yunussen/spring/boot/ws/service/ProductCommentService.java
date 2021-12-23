@@ -11,7 +11,7 @@ import java.util.Optional;
 
 @Service
 @Transactional
-public class UserCommentService {
+public class ProductCommentService {
     @Autowired
     private ProductCommentRepository commetRepository;
 
