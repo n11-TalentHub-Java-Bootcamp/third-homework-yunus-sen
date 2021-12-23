@@ -1,9 +1,9 @@
 package com.yunussen.spring.boot.ws.repository;
 
-import com.yunussen.spring.boot.ws.entity.Product;
+import com.yunussen.spring.boot.ws.entity.ProductComment;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface ProductComment extends MongoRepository<ProductComment, String> {
+public interface ProductCommentRepository extends MongoRepository<ProductComment, String> {
 }
