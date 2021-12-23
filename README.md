@@ -1,2 +1,2 @@
 # third-homework
-> Projeyi calıştırmak icin **resource->hibarnate.cfg.xml dosyasında veritabanı configurasyonu** yapılmalıdır.
+> Projeyi calıştırmak icin **resource->application.properties dosyasında veritabanı configurasyonu** yapılmalıdır.
